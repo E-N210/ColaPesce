@@ -195,7 +195,7 @@ function death(cola,obs){
             game.state.restart()
           Vaisx();
         sd=1;
-      stato=pagina120; }
+      stato="pagina120"; }
     ) }
 
     if(sc!==0){obs.setAll('body.velocity.y', -400);
